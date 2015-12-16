@@ -5,3 +5,6 @@ The scope of the project is currently focused distinugishing between "good" play
 "Good" players are defined as those who are in consideration for Hall of Fame Induction and recieved at least 1 vote.  
 A "Great"player is someone who has been inducted. I am attempting to understand what factors of a pitcher's career
 contribute to the distinction.  
+
+
+Data: http://www.seanlahman.com/baseball-archive/statistics/
